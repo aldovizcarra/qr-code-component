@@ -1,3 +1,16 @@
+:root {
+  --clr-neutral-200: hsl(0, 0%, 100%);
+  --clr-neutral-400: hsl(212, 45%, 89%);
+
+  --clr-primary-300: hsl(220, 15%, 55%);
+  --clr-primary-400: hsl(218, 44%, 22%);
+
+  --fs-400: 15px;
+
+  --fw-400: 400;
+  --fw-700: 700;
+}
+
 /* Box sizing rules */
 *,
 *::before,
